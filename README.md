@@ -17,3 +17,6 @@
 - **Backspace Highlight and Deletion:** When the input is blank, and the user presses backspace, the last chip (e.g., Nick Giannopoulos) should get highlighted. Pressing backspace again should delete the highlighted chip.
 
 - **Tailwind CSS for styling**
+
+https://github.com/PrajwalG7/chip-component/assets/74761056/7fdd6c70-2ecb-4540-8d68-a479fa6d2a2e
+
